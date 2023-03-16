@@ -1,9 +1,8 @@
 # Kulik Denis
-<br>
+
+----
 
 ### Contact information
-
-<br>
 
 __Email:__  denis8kulik@gmail.com
 
