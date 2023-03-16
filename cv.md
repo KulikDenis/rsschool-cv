@@ -1,9 +1,23 @@
-# rs_school cv
+# Kulik Denis
+<br>
 
-## Kulik Denis
+### Contact information
+
+<br>
+
+__Email:__  denis8kulik@gmail.com
+
+[Telegram](https://t.me/denizkul)
+
+[GitHub](https://github.com/KulikDenis)
 
 ----
 
-*** Email: *** denis8kulik@gmail.com
-*** Telegram: *** [https://t.me/denizkul]
-*** GitHub: *** [https://github.com/KulikDenis]
+### Skills
+
+* Html5, css3
+* Git
+* JavaScript
+* Vue.js
+* Figma, Photoshop
+* Email markdown for most popular clients, including outlook
